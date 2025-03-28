@@ -1,0 +1,72 @@
+body {
+    background-color: #e4f9f5;
+    background-image: url(./images/cloudypeaks-wallpaper-luke-thornton.jpg);
+    margin: 0;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+.intro {
+
+   
+   padding-top: 50px;
+}
+
+
+.profile {
+
+   border: 5px solid #3c204c;
+   border-radius: 50%;
+}
+
+
+.fortunecookie {
+    
+    border: 5px solid #9799cc;
+    border-radius: 20px;
+}
+
+
+
+.charm-regular {
+    font-family: "Charm", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #434172;
+  }
+  
+.charm-bold {
+    font-family: "Charm", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 120px;
+    color: #434172;
+  }
+  
+  .shadows-into-light-two-regular {
+    font-family: "Shadows Into Light Two", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #434172;
+  }
+
+
+h5 {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    background-color: black;
+
+
+}
+ .caption{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: black;
+ }
+
+  .bottom-container {
+    background-color: #9799cc;
+    padding: 50px 0 20px;
+}
+  
